@@ -5,7 +5,7 @@
 <!-- Animated Research Line (only this animates) -->
 <p align="center">
   <a href="https://bio.link/bipinchh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&lines=Secure+AI+%7C+LLMs+for+Cybersecurity+%7C+Federated+Learning;Neuro-Symbolic+Reasoning+%7C+Privacy-Preserving+ML+%7C+AI+Agents;Trustworthy+AI+%7C+Retrieval-Augmented+Intelligence+%7C+Autonomous+Cyber+Defense" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&lines=Secure+AI+%7C+LLMs+for+Cybersecurity+%7C+Federated+Learning;Neuro-Symbolic+Reasoning+%7C+Privacy-Preserving+ML+%7C+AI+Agents; Trustworthy+AI+%7C+Retrieval-Augmented+Intelligence+%7C+Autonomous+Cyber+Defense" />
   </a>
 </p>
 
