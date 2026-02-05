@@ -1,5 +1,86 @@
-# 💫 About Me:
-I am a PhD student in Computer Science at Texas Tech University focused on building secure, trustworthy, and intelligent AI systems at the intersection of Artificial Intelligence, Cybersecurity, and Data Privacy. My research explores how Large Language Models, neuro-symbolic reasoning, and federated learning can be combined to develop privacy-preserving and resilient machine learning solutions for real-world cyber defense and data-driven decision making.<br><br>My work includes LLM-based vulnerability detection, transformer-driven prediction of cyber-attack consequences, blockchain-enabled federated learning, and few-shot generative modeling for time-series forecasting, with multiple peer-reviewed publications in leading IEEE venues. I am particularly interested in AI agents, retrieval-augmented reasoning, trustworthy AI, and hybrid symbolic-neural intelligence that can operate securely in distributed and adversarial environments.<br><br>Alongside research, I actively teach Python, data science, and computational thinking to undergraduate students, design scalable MLOps and cloud-native AI pipelines, and build practical applications that bridge academic innovation with industry impact.<br><br>I am always open to research collaboration, secure AI innovation, and industry partnerships in machine learning, cybersecurity, and intelligent systems.
+<!-- Animated Header (optional) -->
+<p align="center">
+  <a href="https://bio.link/bipinchh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Bipin+Chhetri+%7C+PhD+Candidate+%40+Texas+Tech+University;Secure+AI+%7C+LLMs+for+Cybersecurity+%7C+Federated+Learning;Neuro-Symbolic+Reasoning+%7C+Privacy-Preserving+ML+%7C+AI+Agents" />
+  </a>
+</p>
+
+<!-- Clickable Research + Identity Badges -->
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=HE4FOJMAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Bipin-Chhetri-2">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+  <a href="https://bio.link/bipinchh">
+    <img src="https://img.shields.io/badge/Website-bio.link%2Fbipinchh-black?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  <a href="https://github.com/bipinchhetri">
+    <img src="https://img.shields.io/badge/GitHub-bipinchhetri-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/bipin-chhetri">
+    <img src="https://img.shields.io/badge/LinkedIn-bipin--chhetri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bipin.chhetri53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bipin.chhetri53%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- Clickable Metrics Badges -->
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=HE4FOJMAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Citations-50%2B-blue?style=for-the-badge" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=HE4FOJMAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/h--index-2-success?style=for-the-badge" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=HE4FOJMAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Peer--Reviewed%20Papers-5-orange?style=for-the-badge&logo=ieee" />
+  </a>
+</p>
+
+---
+
+## 💫 About Me
+I am a **PhD candidate in Computer Science at Texas Tech University** building **secure, trustworthy, and privacy-preserving AI systems** at the intersection of **Artificial Intelligence, Cybersecurity, and Data Privacy**. My research integrates **Large Language Models, neuro-symbolic reasoning, and federated learning** to develop resilient machine learning solutions for **real-world cyber defense and intelligent decision-making**.
+
+My work spans **LLM-based vulnerability detection, transformer-driven cyber-attack consequence prediction, blockchain-enabled federated learning, and few-shot generative modeling for time-series forecasting**, with **peer-reviewed publications in IEEE venues** and **50+ citations**. I am particularly interested in **AI agents, retrieval-augmented reasoning, trustworthy AI, and hybrid symbolic-neural intelligence** operating in **distributed and adversarial environments**.
+
+Beyond research, I teach **Python, data science, and computational thinking**, design **scalable MLOps and cloud-native AI pipelines**, and build systems that bridge **academic innovation with real-world impact**.
+
+I am open to **research collaboration, secure AI innovation, and industry partnerships** in **machine learning, cybersecurity, and intelligent systems**.
+
+---
+
+### Secure AI • LLMs for Cybersecurity • Federated Learning • Neuro-Symbolic ML
+
+---
+
+## 📄 Featured Publications
+- **Transformer-Based Prediction of Cyber-Attack Consequences** — IEEE COMPSAC 2025  
+- **Blockchain-Based Federated Learning & Data Privacy** — IEEE COMPSAC 2023  
+- **Deep Learning for Smart Contract Vulnerability Detection** — IEEE COMPSAC 2022  
+- **Few-Shot LLM Forecasting for Time-Series** — IEEE Big Data Workshop 2025  
+
+---
+
+## 🚀 Current Research Directions
+- Secure & Trustworthy Large Language Models  
+- Neuro-Symbolic Reasoning for Cybersecurity  
+- Privacy-Preserving Federated AI  
+- AI Agents for Autonomous Cyber Defense  
+- Retrieval-Augmented & Knowledge-Grounded Intelligence  
+
+---
+
+## 🤝 Open to Collaborate On
+- Secure & Trustworthy AI  
+- LLMs for Cybersecurity  
+- Federated & Privacy-Preserving Learning  
+- Neuro-Symbolic & Knowledge-Driven AI  
+
+📫 Best way to reach me: **Email / LinkedIn / Google Scholar / ResearchGate** (badges above).
 
 
 ## 🌐 Socials:
