@@ -1,7 +1,11 @@
-<!-- Animated Header (optional) -->
+<!-- Static Name & Title -->
+<h1 align="center">Bipin Chhetri</h1>
+<h3 align="center">PhD Candidate in Computer Science • Texas Tech University</h3>
+
+<!-- Animated Research Line (only this animates) -->
 <p align="center">
   <a href="https://bio.link/bipinchh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Bipin+Chhetri+%7C+PhD+Candidate+%40+Texas+Tech+University;Secure+AI+%7C+LLMs+for+Cybersecurity+%7C+Federated+Learning;Neuro-Symbolic+Reasoning+%7C+Privacy-Preserving+ML+%7C+AI+Agents" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&lines=Secure+AI+%7C+LLMs+for+Cybersecurity+%7C+Federated+Learning;Neuro-Symbolic+Reasoning+%7C+Privacy-Preserving+ML+%7C+AI+Agents;Trustworthy+AI+%7C+Retrieval-Augmented+Intelligence+%7C+Autonomous+Cyber+Defense" />
   </a>
 </p>
 
@@ -39,6 +43,7 @@
     <img src="https://img.shields.io/badge/Peer--Reviewed%20Papers-5-orange?style=for-the-badge&logo=ieee" />
   </a>
 </p>
+
 
 ---
 
