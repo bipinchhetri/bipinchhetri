@@ -71,7 +71,7 @@ I am open to **research collaboration, secure AI innovation, and industry partne
 ---
 <!-- Animated Contact Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=%F0%9F%93%AB+Best+way+to+reach+me%3A+Email+%E2%86%92+LinkedIn+%E2%86%92+Google+Scholar+%E2%86%92+ResearchGate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=720&lines=%F0%9F%93%AB+Best+way+to+contact+me%3A+Email+%E2%86%92+LinkedIn+%E2%86%92+ResearchGate;Follow+my+Google+Scholar+for+latest+publications" />
 </p>
 
 <!-- Clickable Contact Icons in Priority Order -->
@@ -82,15 +82,15 @@ I am open to **research collaboration, secure AI innovation, and industry partne
   <a href="https://linkedin.com/in/bipin-chhetri">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=HE4FOJMAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/badge/Google%20Scholar-View%20Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
   <a href="https://www.researchgate.net/profile/Bipin-Chhetri-2">
     <img src="https://img.shields.io/badge/ResearchGate-Follow%20Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
   </a>
+  <a href="https://scholar.google.com/citations?user=HE4FOJMAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Latest%20Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
 </p>
 
-
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bipin.chhetri.520562) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bipin-chhetri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@beepsrose) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Bipin-Chhetri-4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PlusCartographer2115) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12875702) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BChhetri36678) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bipinchhetri1891) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bipin.chhetri53@gmail.com) 
